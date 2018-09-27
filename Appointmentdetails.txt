@@ -1,0 +1,13 @@
+Bookingid DoctorName time patientName Age ContactNumber 
+David . 9:0 sdfg 6 45678
+David  10:0 suganya 23 2345678
+James . 8:0 asdfgh 345 34567890
+James  8:15 karthic 24 9876543210
+Rose . 4:0 test 23 23456789
+Rose  6:30 Satya 11 999999999
+James  9:15 test 34 456789
+James 10:15 test 23 53678290
+0586 David . 9:0 test 45 4567890876678
+0100 David 10:15 akila 23 43567829
+0764 David  10:0 Satya 11 999999999
+0626 David  9:30 karthic 24 9876543210
